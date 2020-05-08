@@ -1,0 +1,13 @@
+C:\Users\Ricardinho\Desktop\ws-vs2019\Exercicio_encapsulacao\Exercicio_encapsulacao\bin\Debug\netcoreapp3.1\Exercicio_encapsulacao.exe
+C:\Users\Ricardinho\Desktop\ws-vs2019\Exercicio_encapsulacao\Exercicio_encapsulacao\bin\Debug\netcoreapp3.1\Exercicio_encapsulacao.deps.json
+C:\Users\Ricardinho\Desktop\ws-vs2019\Exercicio_encapsulacao\Exercicio_encapsulacao\bin\Debug\netcoreapp3.1\Exercicio_encapsulacao.runtimeconfig.json
+C:\Users\Ricardinho\Desktop\ws-vs2019\Exercicio_encapsulacao\Exercicio_encapsulacao\bin\Debug\netcoreapp3.1\Exercicio_encapsulacao.runtimeconfig.dev.json
+C:\Users\Ricardinho\Desktop\ws-vs2019\Exercicio_encapsulacao\Exercicio_encapsulacao\bin\Debug\netcoreapp3.1\Exercicio_encapsulacao.dll
+C:\Users\Ricardinho\Desktop\ws-vs2019\Exercicio_encapsulacao\Exercicio_encapsulacao\bin\Debug\netcoreapp3.1\Exercicio_encapsulacao.pdb
+C:\Users\Ricardinho\Desktop\ws-vs2019\Exercicio_encapsulacao\Exercicio_encapsulacao\obj\Debug\netcoreapp3.1\Exercicio_encapsulacao.csprojAssemblyReference.cache
+C:\Users\Ricardinho\Desktop\ws-vs2019\Exercicio_encapsulacao\Exercicio_encapsulacao\obj\Debug\netcoreapp3.1\Exercicio_encapsulacao.csproj.CoreCompileInputs.cache
+C:\Users\Ricardinho\Desktop\ws-vs2019\Exercicio_encapsulacao\Exercicio_encapsulacao\obj\Debug\netcoreapp3.1\Exercicio_encapsulacao.AssemblyInfoInputs.cache
+C:\Users\Ricardinho\Desktop\ws-vs2019\Exercicio_encapsulacao\Exercicio_encapsulacao\obj\Debug\netcoreapp3.1\Exercicio_encapsulacao.AssemblyInfo.cs
+C:\Users\Ricardinho\Desktop\ws-vs2019\Exercicio_encapsulacao\Exercicio_encapsulacao\obj\Debug\netcoreapp3.1\Exercicio_encapsulacao.dll
+C:\Users\Ricardinho\Desktop\ws-vs2019\Exercicio_encapsulacao\Exercicio_encapsulacao\obj\Debug\netcoreapp3.1\Exercicio_encapsulacao.pdb
+C:\Users\Ricardinho\Desktop\ws-vs2019\Exercicio_encapsulacao\Exercicio_encapsulacao\obj\Debug\netcoreapp3.1\Exercicio_encapsulacao.genruntimeconfig.cache
